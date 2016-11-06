@@ -1,3 +1,1 @@
-#:C:\Source\Repos\DDDStudy\src\TechLibrary.UnitTests\TechLibrary.UnitTests.xproj
-C:\Source\Repos\DDDStudy\src\TechLibrary.UnitTests\TechLibrary.UnitTests.xproj|C:\Source\Repos\DDDStudy\src\TechLibrary.Core\TechLibrary.Domain.xproj
-C:\Source\Repos\DDDStudy\src\TechLibrary.Core\TechLibrary.Domain.xproj|C:\Source\Repos\DDDStudy\src\TechLibrary.Interfaces\TechLibrary.Interfaces.xproj
+#:C:\Source\Repos\ddd\src\TechLibrary.Domain\TechLibrary.Domain.xproj
